@@ -93,7 +93,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: dpdasun5@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dasun-pathirana-b7600839b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BirKyvmeRSJGg9TZIV6NBMg%3D%3D
+- 💼 LinkedIn: https://www.linkedin.com/in/dasun-pathirana
 - 🌍 Portfolio: https://
 
 ---
