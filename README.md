@@ -74,7 +74,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dasunpathirana2026&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?username=dasunpathirana2026&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -104,7 +104,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://github.com/dasunpathirana2026/dasunpathirana2026/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/dasunpathirana2026/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
