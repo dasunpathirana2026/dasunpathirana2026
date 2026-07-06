@@ -13,8 +13,7 @@
 - 💻 Passionate about Software Engineering
 - 🌱 Currently learning **Java, Python, C++, JavaScript**
 - 🚀 Interested in Web Development, AI and Cloud Computing
-- 🎯 Goal: Become a Software Engineer at a global tech company
-- 🇱🇰 From Sri Lanka
+- 🎯 Goal: Become a Software Engineer at a global tech company From Sri Lanka
 
 ---
 
@@ -53,9 +52,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dasunpathirana2026&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpathirana2026&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -65,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=dasunpathirana2026&theme=tokyonight"/>
 
 </p>
 
@@ -75,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dasunpathirana2026&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -93,9 +92,9 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌍 Portfolio: https://your-portfolio.vercel.app
+- 📧 Email: dpdasun5@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dasun-pathirana-b7600839b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BirKyvmeRSJGg9TZIV6NBMg%3D%3D
+- 🌍 Portfolio: https://
 
 ---
 
