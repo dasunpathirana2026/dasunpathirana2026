@@ -62,9 +62,9 @@ public class Dasun {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dasunpathirana2026&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpathirana2026&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -74,7 +74,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dasunpathirana2026&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -84,7 +84,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dasunpathirana2026&theme=tokyo-night"/>
 
 </p>
 
@@ -94,7 +94,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dasunpathirana2026&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -104,7 +104,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/dasunpathirana2026/dasunpathirana2026/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -130,11 +130,11 @@ public class Dasun {
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dpdasun5@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dasun-pathirana-b7600839b/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -148,7 +148,7 @@ public class Dasun {
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=dasunpathirana2026&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
