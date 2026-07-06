@@ -1,103 +1,161 @@
 <h1 align="center">Hi 👋, I'm Dasun Pathirana</h1>
-<h3 align="center">ICT Undergraduate | Aspiring Software Engineer | Tech Enthusiast 🇱🇰</h3>
+
+<h3 align="center">
+🚀 ICT Undergraduate at KDU | Future Software Engineer | Full Stack Developer | Sri Lanka 🇱🇰
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=ICT+Undergraduate+at+KDU;Future+Software+Engineer;Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Future+Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 ICT Undergraduate at **KDU**
-- 💻 Passionate about Software Engineering
-- 🌱 Currently learning **Java, Python, C++, JavaScript**
-- 🚀 Interested in Web Development, AI and Cloud Computing
-- 🎯 Goal: Become a Software Engineer at a global tech company From Sri Lanka
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dasunpathirana2026&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpathirana2026&layout=compact&theme=tokyonight"/>
-
+<img src="banner.png" width="100%">
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 👨‍💻 About Me
+
+```java
+public class Dasun {
+
+    String university = "General Sir John Kotelawala Defence University";
+
+    String degree = "BSc in Information and Communication Technology";
+
+    String country = "Sri Lanka";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+    };
+
+    String[] interests = {
+        "Software Engineering",
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Cloud Computing"
+    };
+
+    String motto = "Code • Learn • Build • Repeat";
+
+}
+```
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dasunpathirana2026&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dasunpathirana2026&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 GitHub Streak
 
-- 🌐 Personal Portfolio Website
-- 📚 Student Management System
-- 🏥 Hospital Management System
-- 🤖 AI Mini Projects
-- 📱 Responsive Web Applications
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 📈 Contribution Graph
 
-- 📧 Email: dpdasun5@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dasun-pathirana-b7600839b/
-- 🌍 Portfolio: https://
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Personal Portfolio Website
+
+⭐ Student Management System
+
+⭐ Hospital Management System
+
+⭐ Java Projects
+
+⭐ AI Projects
+
+⭐ Web Applications
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
 </p>
+
+---
+
+<h2 align="center">
+
+💙 Code • Learn • Build • Repeat
+
+</h2>
