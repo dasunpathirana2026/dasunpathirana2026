@@ -67,9 +67,6 @@ public class Dasun {
 
 <div align="center">
 
-Area
-
-Progress
 
 🌐 Full Stack Development
 
