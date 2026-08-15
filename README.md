@@ -2,292 +2,134 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0b1f4d,100:7c3aed&height=180&section=header&text=Dasun%20Pathirana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0b1f4d,100:7c3aed&height=180&section=header&text=Dasun%20Pathirana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!;ICT+Undergraduate+at+KDU+%F0%9F%8E%93;Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+Enthusiast+%F0%9F%A4%96;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!;ICT+Undergraduate+at+KDU+%F0%9F%8E%93;Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+Enthusiast+%F0%9F%A4%96;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%94%A5" alt="Typing SVG"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/ICT%20UNDERGRADUATE-KDU-00D9FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=dasunpathirana2026&style=for-the-badge&label=VISITORS&color=00D9FF"/>
+<img src="https://img.shields.io/badge/ICT%20UNDERGRADUATE-KDU-00D9FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="KDU Badge"/>
+<img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
+<img src="https://komarev.com/ghpvc/?username=dasunpathirana2026&style=for-the-badge&label=VISITORS&color=00D9FF" alt="Visitor Badge"/>
 
 </div>
 
-👨‍💻 About Me
+<br>
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 I'm an ICT undergraduate at General Sir John Kotelawala Defence University (KDU), passionate about building useful software solutions and exploring modern technologies.
 
-⚡ Focused on Software Engineering & Full Stack Development
+<br>
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+* ⚡ <b>Focused on:</b> Software Engineering &amp; Full Stack Development
+* 🤖 <b>Exploring:</b> Artificial Intelligence &amp; Machine Learning
+* ☁️ <b>Interested in:</b> Cloud Computing
+* 🧠 <b>Improving:</b> Data Structures &amp; Algorithms
+* 🚀 <b>Goal:</b> Turning ideas into real-world applications
+* 📚 <b>Mindset:</b> Always learning and experimenting
 
-☁️ Interested in Cloud Computing
+<br>
 
-🧠 Improving Data Structures & Algorithms
-
-🚀 Turning ideas into real-world applications
-
-📚 Always learning and experimenting
-
-🎯 Motto
-
-Code • Learn • Build • Repeat
+<b>🎯 Motto</b><br>
+<i>Code • Learn • Build • Repeat</i>
 
 </td>
 
-<td width="45%">
+<td width="45%" valign="top">
 
-public class Dasun {
-
+<pre><code class="language-java">public class Dasun {
     String university = "KDU";
-    String degree = "BSc ICT";
-    String country = "Sri Lanka";
+    String degree     = "BSc ICT";
+    String country    = "Sri Lanka";
 
     String[] passions = {
         "Software Engineering",
         "Full Stack Development",
-        "AI",
+        "AI & Machine Learning",
         "Cloud Computing"
     };
 
-    String motto =
-        "Code • Learn • Build • Repeat";
-}
+    public void status() {
+        System.out.println("Building real-world apps!");
+    }
+}</code></pre>
 
 </td>
 </tr>
 </table>
 
-⚡ Currently Focusing On
+<br>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-🌐 Full Stack Development
-
-<img src="https://progress-bar.dev/90/?title=Progress&width=300&color=22d3ee&suffix=%25" />
-
-Frontend • Backend • APIs • Databases
-
-</td>
-
-<td width="50%" align="center">
-
-🤖 Artificial Intelligence
-
-<img src="https://progress-bar.dev/80/?title=Progress&width=300&color=a855f7&suffix=%25" />
-
-Python • Machine Learning • AI Applications
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-☁️ Cloud Computing
-
-<img src="https://progress-bar.dev/70/?title=Progress&width=300&color=f59e0b&suffix=%25" />
-
-Cloud Platforms • Deployment • DevOps
-
-</td>
-
-<td width="50%" align="center">
-
-🧠 Data Structures & Algorithms
-
-<img src="https://progress-bar.dev/75/?title=Progress&width=300&color=22c55e&suffix=%25" />
-
-Problem Solving • Algorithms • Optimization
-
-</td>
-</tr>
-</table>
-
-🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,linux" />
-
-</p>
-
-🚀 Featured Projects
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+### Languages & Frameworks
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
-<h3>🏥 Hospital Management System</h3>
-
-Hospital operations, patients, doctors & appointments.
-
-<strong>Java • MySQL</strong>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🎓 Student Management System</h3>
-
-Student records, courses, grades & academic information.
-
-<strong>Java • MySQL</strong>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🌐 Personal Portfolio</h3>
-
-Personal developer portfolio showcasing skills and projects.
-
-<strong>HTML • CSS • JavaScript</strong>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-
-<h3>🤖 AI Projects</h3>
-
-AI/ML experiments and intelligent real-world applications.
-
-<strong>Python • AI/ML</strong>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>☕ Java Projects</h3>
-
-Java applications focused on OOP and problem solving.
-
-<strong>Java • OOP</strong>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🚀 More Coming Soon</h3>
-
-New software projects are currently being developed.
-
-<strong>More technologies coming soon</strong>
-
-</td>
-</tr>
-</table>
+### Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop"/>
 
 </div>
 
-<p align="center">
-<a href="https://github.com/dasunpathirana2026?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<br>
 
+## 📌 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖼️ HTML5 Clone Stamp Watermark Remover</h3>
+      <p>A web application for interactive watermark removal using a clone stamp tool built on HTML5 Canvas and JavaScript logic.</p>
+      <p><b>Tech Stack:</b> JavaScript, HTML5 Canvas, CSS3</p>
+      <p align="center">
+        <a href="https://github.com/dasunpathirana2026"><b>View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Customer Relationship Management System</h3>
+      <p>A web application for tracking client interactions, sales pipelines, and reporting metrics.</p>
+      <p><b>Tech Stack:</b> Java, JavaScript, MySQL, HTML/CSS</p>
+      <p align="center">
+        <a href="https://github.com/dasunpathirana2026"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-📊 GitHub Stats
+<br>
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dasunpathirana2026&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpathirana2026&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dasunpathirana2026&theme=tokyonight&hide_border=true&mode=weekly"/>
-</p>
-
-📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dasunpathirana2026&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dasunpathirana2026&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-</p>
-
-🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/dasunpathirana2026/dasunpathirana2026/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-Snake animation setup: Create a GitHub Actions workflow in .github/workflows/snake.yml to generate the output branch before using the image above.
-
-🎯 2026 Goals
-
-Learn programming fundamentals
-
-Build academic projects
-
-Become a stronger Full Stack Developer
-
-Build production-ready web applications
-
-Develop AI-powered applications
-
-Learn Cloud Computing
-
-Learn DevOps
-
-Contribute to Open Source
-
-Build a professional developer portfolio
-
-💡 Developer Philosophy
+## 📊 GitHub Analytics
 
 <div align="center">
-
-"The only way to do great work is to love what you do."
-
-Learn → Build → Break → Fix → Improve → Repeat 🔁
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dasunpathirana2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpathirana2026&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
-📫 Connect With Me
+<br>
 
-<p align="center">
-
-<a href="mailto:dpdasun5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dpdasun5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dasun-pathirana-b7600839b/">
-<img src="https://img.shields.io/badge/LinkedIn-Dasun%20Pathirana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
+## 🌐 Connect With Me
 
 <div align="center">
 
-💙 Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Keep+coding+%F0%9F%92%BB;Keep+learning+%F0%9F%93%9A;Keep+building+%F0%9F%9A%80;See+you+in+the+next+commit!+%F0%9F%91%8B"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0369a1,100:050816&height=120&section=footer"/>
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
