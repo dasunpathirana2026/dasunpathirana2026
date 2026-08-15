@@ -14,32 +14,34 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <table>
 <tr>
 <td width="55%">
 
-I'm an **ICT undergraduate at General Sir John Kotelawala Defence University (KDU)**, passionate about building useful software solutions and exploring modern technologies.
+I'm an ICT undergraduate at General Sir John Kotelawala Defence University (KDU), passionate about building useful software solutions and exploring modern technologies.
 
-- ⚡ Focused on Software Engineering & Full Stack Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- ☁️ Interested in Cloud Computing
-- 🧠 Improving Data Structures & Algorithms
-- 🚀 Turning ideas into real-world applications
-- 📚 Always learning and experimenting
+⚡ Focused on Software Engineering & Full Stack Development
 
-### 🎯 Motto
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-> **Code • Learn • Build • Repeat**
+☁️ Interested in Cloud Computing
+
+🧠 Improving Data Structures & Algorithms
+
+🚀 Turning ideas into real-world applications
+
+📚 Always learning and experimenting
+
+🎯 Motto
+
+Code • Learn • Build • Repeat
 
 </td>
 
 <td width="45%">
 
-```java
 public class Dasun {
 
     String university = "KDU";
@@ -56,75 +58,114 @@ public class Dasun {
     String motto =
         "Code • Learn • Build • Repeat";
 }
-```
 
 </td>
 </tr>
 </table>
 
----
-
-## ⚡ Currently Focusing On
+⚡ Currently Focusing On
 
 <div align="center">
 
-| Area | Progress |
-|:---|:---:|
-| 🌐 Full Stack Development | `█████████░` 90% |
-| 🤖 Artificial Intelligence | `████████░░` 80% |
-| ☁️ Cloud Computing | `███████░░░` 70% |
-| 🧠 Data Structures & Algorithms | `████████░░` 75% |
+Area
+
+Progress
+
+🌐 Full Stack Development
+
+█████████░ 90%
+
+🤖 Artificial Intelligence
+
+████████░░ 80%
+
+☁️ Cloud Computing
+
+███████░░░ 70%
+
+🧠 Data Structures & Algorithms
+
+████████░░ 75%
 
 </div>
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
+🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,linux" />
+
 </p>
 
-### 🌐 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔧 Tools & Environment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
-| 🏥 Hospital Management | 🎓 Student Management | 🌐 Personal Portfolio |
-|:---:|:---:|:---:|
-| Hospital operations, patients, doctors & appointments | Students, courses, grades & academic records | Personal developer portfolio |
-| **Java • MySQL** | **Java • MySQL** | **HTML • CSS • JavaScript** |
+<table>
+<tr>
+<td width="33%" align="center">
 
-| 🤖 AI Projects | ☕ Java Projects | 💻 More Coming Soon |
-|:---:|:---:|:---:|
-| AI/ML experiments & applications | OOP and software engineering projects | New projects are being built |
+🏥 Hospital Management System
+
+Hospital operations, patients, doctors & appointments.
+
+Java • MySQL
+
+</td>
+
+<td width="33%" align="center">
+
+🎓 Student Management System
+
+Student records, courses, grades & academic information.
+
+Java • MySQL
+
+</td>
+
+<td width="33%" align="center">
+
+🌐 Personal Portfolio
+
+Personal developer portfolio showcasing skills and projects.
+
+HTML • CSS • JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+🤖 AI Projects
+
+AI/ML experiments and intelligent real-world applications.
+
+Python • AI/ML
+
+</td>
+
+<td width="33%" align="center">
+
+☕ Java Projects
+
+Java applications focused on OOP and problem solving.
+
+Java • OOP
+
+</td>
+
+<td width="33%" align="center">
+
+🚀 More Coming Soon
+
+New software projects are currently being developed.
+
+More technologies coming soon
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -134,78 +175,112 @@ public class Dasun {
 </a>
 </p>
 
----
 
-# 📊 GitHub Stats
+
+<div align="center">
+
+🏥 Hospital Management
+
+🎓 Student Management
+
+🌐 Personal Portfolio
+
+Hospital operations, patients, doctors & appointments
+
+Students, courses, grades & academic records
+
+Personal developer portfolio
+
+Java • MySQL
+
+Java • MySQL
+
+HTML • CSS • JavaScript
+
+🤖 AI Projects
+
+☕ Java Projects
+
+💻 More Coming Soon
+
+AI/ML experiments & applications
+
+OOP and software engineering projects
+
+New projects are being built
+
+</div>
+
+<p align="center">
+<a href="https://github.com/dasunpathirana2026?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+📊 GitHub Stats
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=dasunpathirana2026&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpathirana2026&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=dasunpathirana2026&theme=tokyonight&hide_border=true&mode=weekly"/>
 </p>
 
----
-
-# 📈 Contribution Activity
+📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasunpathirana2026&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dasunpathirana2026&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/dasunpathirana2026/dasunpathirana2026/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-> **Snake animation setup:** Create a GitHub Actions workflow in `.github/workflows/snake.yml` to generate the `output` branch before using the image above.
+Snake animation setup: Create a GitHub Actions workflow in .github/workflows/snake.yml to generate the output branch before using the image above.
 
----
+🎯 2026 Goals
 
-# 🎯 2026 Goals
+Learn programming fundamentals
 
-- [x] Learn programming fundamentals
-- [x] Build academic projects
-- [ ] Become a stronger Full Stack Developer
-- [ ] Build production-ready web applications
-- [ ] Develop AI-powered applications
-- [ ] Learn Cloud Computing
-- [ ] Learn DevOps
-- [ ] Contribute to Open Source
-- [ ] Build a professional developer portfolio
+Build academic projects
 
----
+Become a stronger Full Stack Developer
 
-# 💡 Developer Philosophy
+Build production-ready web applications
+
+Develop AI-powered applications
+
+Learn Cloud Computing
+
+Learn DevOps
+
+Contribute to Open Source
+
+Build a professional developer portfolio
+
+💡 Developer Philosophy
 
 <div align="center">
 
-### `"The only way to do great work is to love what you do."`
+"The only way to do great work is to love what you do."
 
-**Learn → Build → Break → Fix → Improve → Repeat 🔁**
+Learn → Build → Break → Fix → Improve → Repeat 🔁
 
 </div>
 
----
-
-# 📫 Connect With Me
+📫 Connect With Me
 
 <p align="center">
 
@@ -223,11 +298,9 @@ public class Dasun {
 
 </p>
 
----
-
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+💙 Thanks for visiting my profile!
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Keep+coding+%F0%9F%92%BB;Keep+learning+%F0%9F%93%9A;Keep+building+%F0%9F%9A%80;See+you+in+the+next+commit!+%F0%9F%91%8B"/>
 
