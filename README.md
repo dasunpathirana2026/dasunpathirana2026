@@ -65,29 +65,51 @@ public class Dasun {
 
 ⚡ Currently Focusing On
 
-<div align="center">
-
-Area
-
-Progress
+<table>
+<tr>
+<td width="50%" align="center">
 
 🌐 Full Stack Development
 
-█████████░ 90%
+<img src="https://progress-bar.dev/90/?title=Progress&width=300&color=22d3ee&suffix=%25" />
+
+Frontend • Backend • APIs • Databases
+
+</td>
+
+<td width="50%" align="center">
 
 🤖 Artificial Intelligence
 
-████████░░ 80%
+<img src="https://progress-bar.dev/80/?title=Progress&width=300&color=a855f7&suffix=%25" />
+
+Python • Machine Learning • AI Applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 ☁️ Cloud Computing
 
-███████░░░ 70%
+<img src="https://progress-bar.dev/70/?title=Progress&width=300&color=f59e0b&suffix=%25" />
+
+Cloud Platforms • Deployment • DevOps
+
+</td>
+
+<td width="50%" align="center">
 
 🧠 Data Structures & Algorithms
 
-████████░░ 75%
+<img src="https://progress-bar.dev/75/?title=Progress&width=300&color=22c55e&suffix=%25" />
 
-</div>
+Problem Solving • Algorithms • Optimization
+
+</td>
+</tr>
+</table>
 
 🛠️ Tech Stack
 
