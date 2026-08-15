@@ -67,6 +67,9 @@ public class Dasun {
 
 <div align="center">
 
+Area
+
+Progress
 
 🌐 Full Stack Development
 
@@ -102,31 +105,31 @@ public class Dasun {
 <tr>
 <td width="33%" align="center">
 
-🏥 Hospital Management System
+<h3>🏥 Hospital Management System</h3>
 
 Hospital operations, patients, doctors & appointments.
 
-Java • MySQL
+<strong>Java • MySQL</strong>
 
 </td>
 
 <td width="33%" align="center">
 
-🎓 Student Management System
+<h3>🎓 Student Management System</h3>
 
 Student records, courses, grades & academic information.
 
-Java • MySQL
+<strong>Java • MySQL</strong>
 
 </td>
 
 <td width="33%" align="center">
 
-🌐 Personal Portfolio
+<h3>🌐 Personal Portfolio</h3>
 
 Personal developer portfolio showcasing skills and projects.
 
-HTML • CSS • JavaScript
+<strong>HTML • CSS • JavaScript</strong>
 
 </td>
 </tr>
@@ -134,31 +137,31 @@ HTML • CSS • JavaScript
 <tr>
 <td width="33%" align="center">
 
-🤖 AI Projects
+<h3>🤖 AI Projects</h3>
 
 AI/ML experiments and intelligent real-world applications.
 
-Python • AI/ML
+<strong>Python • AI/ML</strong>
 
 </td>
 
 <td width="33%" align="center">
 
-☕ Java Projects
+<h3>☕ Java Projects</h3>
 
 Java applications focused on OOP and problem solving.
 
-Java • OOP
+<strong>Java • OOP</strong>
 
 </td>
 
 <td width="33%" align="center">
 
-🚀 More Coming Soon
+<h3>🚀 More Coming Soon</h3>
 
 New software projects are currently being developed.
 
-More technologies coming soon
+<strong>More technologies coming soon</strong>
 
 </td>
 </tr>
@@ -173,46 +176,6 @@ More technologies coming soon
 </p>
 
 
-
-<div align="center">
-
-🏥 Hospital Management
-
-🎓 Student Management
-
-🌐 Personal Portfolio
-
-Hospital operations, patients, doctors & appointments
-
-Students, courses, grades & academic records
-
-Personal developer portfolio
-
-Java • MySQL
-
-Java • MySQL
-
-HTML • CSS • JavaScript
-
-🤖 AI Projects
-
-☕ Java Projects
-
-💻 More Coming Soon
-
-AI/ML experiments & applications
-
-OOP and software engineering projects
-
-New projects are being built
-
-</div>
-
-<p align="center">
-<a href="https://github.com/dasunpathirana2026?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 📊 GitHub Stats
 
